@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm [AlsosCode]
 
-<!--
-**AlsosCode/AlsosCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I'm interested in programming, backend development, software engineering, and creating hobby projects to become a better programmer!
 
-Here are some ideas to get you started:
+🌱 I'm currently learning [Backend Programming, Software Design, Web Development].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [mind controll]
+
+---
+
+## Subjects in IT and Programming
+
+### First semester:
+- **Databases:** Creating relational databases in MySQL
+- **Intro to programming:** JavaScript
+- **Digital Technology:** WWW, OS, Network, PC components, and more
+- **Creative Web Project:** HTML5 and CSS3
+
+### Second semester:
+- **Information Security:** Ethical hacking, defensive programming
+- **Object-Oriented Programming:** OOP in Java
+- **Visual Analytics:** Data visualizations in Tableau
+
+### Third Semester:
+- **Backend Programming:** Web Sockets, Docker, Client/Server, etc.
+- **Software Design:** C# Software design, ADO.NET
+- **Web Development:** React, Node, Express, MongoDB, etc.
+
+### Fourth Semester:
+- Programming in C for Linux
+- Python Programming
+- IT Project Management
+- Algorithms and Data Structures in Java
+
+### Fifth Semester:
+- Microservices
+- DevOps
+- Agile Programming
+
+### Sixth Semester:
+- Undersøkelsesmetoder
+- Bachelor project
+
+### Langueages:
+- JavaScript
+- Java
+- C#
+- React
+- TypeScript
+- Python
+- HTML
+- CSS
+- SQL
+
+### Example Project Highlights
+- [Project 1](https://github.com/AlsosCode/TaskList)
+- [Project 2](https://github.com/AlsosCode/bicycle-inventory-api)
