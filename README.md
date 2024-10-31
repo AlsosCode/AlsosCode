@@ -27,10 +27,10 @@
 - **Web Development:** React, Node, Express, MongoDB, etc.
 
 ### Fourth Semester:
-- Programming in C for Linux
-- Python Programming
-- IT Project Management
-- Algorithms and Data Structures in Java
+- ?
+- ?
+- ?
+- ?
 
 ### Fifth Semester:
 - Microservices
