@@ -53,5 +53,5 @@
 - SQL
 
 ### Example Project Highlights
-- [Project 1](https://github.com/AlsosCode/TaskList)
-- [Project 2](https://github.com/AlsosCode/bicycle-inventory-api)
+- [TaskList](https://github.com/AlsosCode/TaskList)
+- [BicycleInventoryAPI](https://github.com/AlsosCode/bicycle-inventory-api)
