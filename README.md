@@ -27,10 +27,10 @@
 - **Web Development:** React, Node, Express, MongoDB, etc.
 
 ### Fourth Semester:
-- ?
-- ?
-- ?
-- ?
+- **Python Programming:** 
+- **Programming in C for Linux:**
+- **Project Management:**
+- **Unity Development:**
 
 ### Fifth Semester:
 - Microservices
@@ -53,5 +53,6 @@
 - SQL
 
 ### Example Project Highlights
+- [SimpleSocialMediaApp](https://github.com/AlsosCode/pg6301-social-media)
 - [TaskList](https://github.com/AlsosCode/TaskList)
 - [BicycleInventoryAPI](https://github.com/AlsosCode/bicycle-inventory-api)
