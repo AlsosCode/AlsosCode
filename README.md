@@ -54,5 +54,4 @@
 
 ### Example Project Highlights
 - [SimpleSocialMediaApp](https://github.com/AlsosCode/pg6301-social-media)
-- [TaskList](https://github.com/AlsosCode/TaskList)
 - [BicycleInventoryAPI](https://github.com/AlsosCode/bicycle-inventory-api)
