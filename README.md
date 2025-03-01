@@ -2,7 +2,7 @@
 
 👀 I'm interested in programming, backend development, software engineering, and creating hobby projects to become a better programmer!
 
-🌱 I'm currently learning [Backend Programming, Software Design, Web Development].
+🌱 I'm currently learning [Python Programming, Programming in C for Linux, Project Management and Unity Development].
 
 📫 How to reach me: [mind controll]
 
