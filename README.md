@@ -2,7 +2,7 @@
 
 👀 I'm interested in programming, backend development, software engineering, and creating hobby projects to become a better programmer!
 
-🌱 I'm currently learning [Microsservices, DevOpds and Agile Programming].
+🌱 I'm currently learning [Microservices, DevOpds and Agile Programming].
 
 📫 How to reach me: [mind controll]
 
