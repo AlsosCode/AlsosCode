@@ -2,7 +2,7 @@
 
 👀 I'm interested in programming, backend development, software engineering, and creating hobby projects to become a better programmer!
 
-🌱 I'm currently learning [Python Programming, Programming in C for Linux, Project Management and Unity Development].
+🌱 I'm currently learning [Microsservices, DevOpds and Agile Programming].
 
 📫 How to reach me: [mind controll]
 
@@ -27,15 +27,15 @@
 - **Web Development:** React, Node, Express, MongoDB, etc.
 
 ### Fourth Semester:
-- **Python Programming:** 
-- **Programming in C for Linux:**
-- **Project Management:**
-- **Unity Development:**
+- **Python Programming:** Automation, data handling, and scripting with Python
+- **Programming in C for Linux:** Systems programming, threads, and network communication
+- **Project Management:** Agile methods, planning tools, and project execution
+- **Unity Development:** Game and simulation development using Unity and C#
 
 ### Fifth Semester:
-- Microservices
-- DevOps
-- Agile Programming
+- **Microservices:** Distributed system design and service communication
+- **DevOps:** CI/CD pipelines, container orchestration, and cloud deployment
+- **Agile Programming:** Scrum, iterative development, and team collaboration
 
 ### Sixth Semester:
 - Undersøkelsesmetoder
