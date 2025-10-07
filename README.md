@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning [Microservices, DevOpds and Agile Programming].
 
-📫 How to reach me: [mind controll]
+📫 How to reach me: [mind controll or https://alsoscode.github.io./]
 
 ---
 
