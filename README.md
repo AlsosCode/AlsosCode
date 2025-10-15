@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [AlsosCode]
 
-💡 **Backend Developer | Software Engineer | Lifelong Learner**
+💡 **Developer | Lifelong Learner**
 
 I’m passionate about building scalable backend systems, experimenting with new technologies, and continuously improving as a developer.  
 Currently diving deeper into **Microservices**, **DevOps**, and **Agile software development**.
