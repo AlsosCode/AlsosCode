@@ -31,9 +31,12 @@ Currently diving deeper into **Microservices**, **DevOps**, and **Agile software
 
 ### 🏆 Achievements & Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AlsosCode&theme=github-dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlsosCode&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlsosCode&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlsosCode&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=AlsosCode&theme=github-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsosCode&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
 
 ---
 
