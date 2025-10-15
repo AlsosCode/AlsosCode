@@ -1,9 +1,10 @@
 # 👋 Hi, I'm [AlsosCode]
 
-💡 **Developer | Lifelong Learner**
+💡 **Full-Stack Developer | Lifelong Learner**
 
-I’m passionate about building scalable backend systems, experimenting with new technologies, and continuously improving as a developer.  
-Currently diving deeper into **Microservices**, **DevOps**, and **Agile software development**.
+
+I’m passionate about creating clean, user-focused digital experiences — from designing intuitive frontends to building scalable backend systems.  
+I love exploring new technologies, improving code quality, and bringing ideas to life through code. Currently diving deeper into **Microservices**, **DevOps**, and **Agile software development**.
 
 ---
 
