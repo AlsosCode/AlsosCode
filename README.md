@@ -42,8 +42,8 @@ I love exploring new technologies, improving code quality, and bringing ideas to
 ---
 
 ### 🌐 Connect With Me
-📫 **Website:** [alsoscode.github.io](https://alsoscode.github.io)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/mathias-alsos-paulsen-43108a204/](#)  
-🧠 **Portfolio:** [alsoscode.github.io/projects](https://alsoscode.github.io/#projects)
+📫 [**Website:**] [alsoscode.github.io](https://alsoscode.github.io)  
+💼 [**LinkedIn:**] [https://www.linkedin.com/in/mathias-alsos-paulsen-43108a204/](#)  
+🧠 [**Portfolio:**] [alsoscode.github.io/projects](https://alsoscode.github.io/#projects)
 ---
 ⭐ *“Code. Learn. Improve. Repeat.”*
