@@ -19,7 +19,7 @@ I love exploring new technologies, improving code quality, and bringing ideas to
 ### 🧩 Featured Projects
 - 🗣️ [**SimpleSocialMediaApp**](https://github.com/AlsosCode/pg6301-social-media) — A full-stack social media app with authentication, comments, and reactions.  
 - 🚲 [**BicycleInventoryAPI**](https://github.com/AlsosCode/bicycle-inventory-api) — REST API built with Java Spring Boot and Faker-generated dataset.  
-- 🧰 [**ToDoList React App**](https://github.com/AlsosCode/TaskList) — Frontend built with Vite and React, integrated with an Express backend.  
+- 🧰 [**Drag & Drop Task List App**](https://github.com/AlsosCode/Drag-Drop-Task-List-App) — Frontend built with Vite and React, integrated with an Express backend.  
 
 ---
 
