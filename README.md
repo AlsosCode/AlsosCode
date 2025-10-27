@@ -9,7 +9,7 @@ I love exploring new technologies, improving code quality, and bringing ideas to
 ---
 
 ### 🚀 Tech Stack
-**Languages:** Java • JavaScript • TypeScript • C# • Python • SQL • HTML • CSS
+**Languages:** Java • JavaScript • TypeScript • C# • Python • SQL • HTML • CSS  
 **Frameworks & Libraries:** Spring Boot • Express • React • Node.js • .NET  
 **Tools & Platforms:** Docker • Git • Azure • CI/CD • Maven • Jest • Vite  
 **Databases:** MySQL • MongoDB • PostgreSQL  
